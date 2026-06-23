@@ -1,7 +1,3 @@
-2026-06-23 11:37:20.562600: Abimbola - Registered
-2026-06-23 11:37:26.587622: Abimbola - Viewed Civil War Document
-2026-06-23 11:37:40.758832: Abimbola - Started Quiz
-2026-06-23 11:40:27.173759: Abimbola - Completed quiz - Score: 9/12
 2026-06-23 11:45:59.842931: Adeline - Registered
 2026-06-23 11:51:44.635378: Adeline - Authenticated
 2026-06-23 11:58:17.125819: Kimmy  - Registered
